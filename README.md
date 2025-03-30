@@ -13,8 +13,8 @@ The AI Real Estate Agent automates property search and market analysis using Fir
 ### How to Get Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Gorav22/ai_real_estate_agent
-   cd ai_real_estate_agent
+   git clone https://github.com/Gorav22/AI-Real-Estate-Agent
+   cd AI-Real-Estate-Agent
    ```
 
 2. **Install the required packages**:
