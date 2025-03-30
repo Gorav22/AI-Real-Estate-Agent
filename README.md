@@ -24,7 +24,7 @@ The AI Real Estate Agent automates property search and market analysis using Fir
 
 3. **Set up your API keys**:
    - Get your Firecrawl API key from [Firecrawl's website](https://www.firecrawl.dev/app/api-keys)
-   - Get your OpenAI API key from [OpenAI's website](https://platform.openai.com/api-keys)
+   - Get your OpenAI API key from [AI Studio](https://makersuite.google.com/app/apikey)
 
 4. **Run the application**:
    ```bash
